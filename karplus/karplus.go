@@ -5,8 +5,8 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/gophergala2016/chopher/note"
-	"github.com/gophergala2016/chopher/song"
+	"github.com/pointlander/chopher/note"
+	"github.com/pointlander/chopher/song"
 )
 
 type Note struct {

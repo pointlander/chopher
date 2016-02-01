@@ -1,8 +1,8 @@
 package song
 
 import (
-	"github.com/gophergala2016/chopher/note"
-	"github.com/gophergala2016/chopher/scale"
+	"github.com/pointlander/chopher/note"
+	"github.com/pointlander/chopher/scale"
 )
 
 const (

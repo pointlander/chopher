@@ -3,9 +3,9 @@ package hasher
 import (
 	"io"
 
-	"github.com/gophergala2016/chopher/note"
-	"github.com/gophergala2016/chopher/scale"
-	"github.com/gophergala2016/chopher/song"
+	"github.com/pointlander/chopher/note"
+	"github.com/pointlander/chopher/scale"
+	"github.com/pointlander/chopher/song"
 )
 
 var (
